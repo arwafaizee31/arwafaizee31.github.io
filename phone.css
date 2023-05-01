@@ -1,0 +1,8 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #navbar ul li {
+    margin: 10px 0;
+  }
